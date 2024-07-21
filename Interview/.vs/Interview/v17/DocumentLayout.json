@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Chen\\19072024\\SDET-assignment\\SDET-assignment\\Interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|c:\\users\\user\\desktop\\chen\\19072024\\sdet-assignment\\sdet-assignment\\interview\\rl.backend\\controllers\\planprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\controllers\\planprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|c:\\users\\user\\desktop\\chen\\19072024\\sdet-assignment\\sdet-assignment\\interview\\rl.backend\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanProcedureController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Chen\\19072024\\SDET-assignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Chen\\19072024\\SDET-assignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:41:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Chen\\19072024\\SDET-assignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\PlanController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\PlanController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Chen\\19072024\\SDET-assignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\PlanController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\PlanController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:47:36.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
